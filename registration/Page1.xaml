@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="registration.Page1">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="#6A6262">
+
+
+            <Label Text="Welcome" 
+          HorizontalOptions="Center" 
+          FontSize="40"
+          Margin="60"
+          TextColor="#FFC300"
+           />
+            <Entry 
+         x:Name="username"
+         Placeholder="Username" 
+         PlaceholderColor="#FFC300" 
+         FontSize="20"
+         WidthRequest="300"
+         HorizontalOptions="Center"
+          />
+            <Entry 
+         x:Name="email"
+         Placeholder="Email" 
+         PlaceholderColor="#FFC300" 
+         FontSize="20"
+         WidthRequest="300"
+         HorizontalOptions="Center"
+          />
+            <Entry 
+         x:Name="password"  
+         Placeholder="Password" 
+         PlaceholderColor="#FFC300" 
+         FontSize="20" 
+         IsPassword="True"
+         WidthRequest="300"
+         HorizontalOptions="Center"
+          />
+            <BoxView></BoxView>
+
+            <Button 
+         x:Name="singup"
+         Text="SingUp"
+         FontSize="Large" 
+         FontAttributes="Italic"
+         CornerRadius="30"     
+         WidthRequest="200"
+         HorizontalOptions="Center"
+          />
+
+
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

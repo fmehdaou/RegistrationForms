@@ -1,0 +1,14 @@
+C:\Users\mehda\source\repos\registration\registration\registration\bin\Debug\netstandard2.0\registration.deps.json
+C:\Users\mehda\source\repos\registration\registration\registration\bin\Debug\netstandard2.0\registration.dll
+C:\Users\mehda\source\repos\registration\registration\registration\bin\Debug\netstandard2.0\ref\registration.dll
+C:\Users\mehda\source\repos\registration\registration\registration\bin\Debug\netstandard2.0\registration.pdb
+C:\Users\mehda\source\repos\registration\registration\registration\obj\Debug\netstandard2.0\registration.csprojAssemblyReference.cache
+C:\Users\mehda\source\repos\registration\registration\registration\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mehda\source\repos\registration\registration\registration\obj\Debug\netstandard2.0\registration.AssemblyInfoInputs.cache
+C:\Users\mehda\source\repos\registration\registration\registration\obj\Debug\netstandard2.0\registration.AssemblyInfo.cs
+C:\Users\mehda\source\repos\registration\registration\registration\obj\Debug\netstandard2.0\registration.dll
+C:\Users\mehda\source\repos\registration\registration\registration\obj\Debug\netstandard2.0\ref\registration.dll
+C:\Users\mehda\source\repos\registration\registration\registration\obj\Debug\netstandard2.0\registration.pdb
+C:\Users\mehda\source\repos\registration\registration\registration\obj\Debug\netstandard2.0\page2.xaml.g.cs
+C:\Users\mehda\source\repos\registration\registration\registration\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\mehda\source\repos\registration\registration\registration\obj\Debug\netstandard2.0\XamlC.stamp
